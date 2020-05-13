@@ -25,8 +25,8 @@ from misc import bcolors
 from DataLoaders import DataLoader
 
 from run_wrapper import RunWrapper
-from network import AutoFCNetwork
-from network import AutoConvNetwork
+#from network import AutoFCNetwork
+#from network import AutoConvNetwork
 from network import ClassifyConvNetwork
 from network import VGG16
 from network import ResidualConvNetwork
